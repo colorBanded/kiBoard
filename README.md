@@ -1,2 +1,2 @@
 # kiBoard
-Full 104-key Keyboard with an optional screen
+A nonstandard 158 key Keyboard
