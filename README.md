@@ -22,4 +22,5 @@ Full 104-key Keyboard designed as a submission for the **2026 Hackclub Stardance
 | SW1–SW158 | 158 | SW_Push_45deg | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB | |
 | SW159 | 1 | SW_Push | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB | |
 | U1 | 1 | PCF8574AP | Package_DIP:DIP-16_W7.62mm | https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf |
+---------------------------------------------------
 Note: You can use any extended regular keyboard keycap set but it will need extra standard 1.0u keycaps for the remaining keys.
