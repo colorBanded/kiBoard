@@ -15,10 +15,10 @@ Full 104-key Keyboard designed as a submission for the **2026 Hackclub Stardance
 
 
 ## BOM
-| Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Footprint | Datasheet |
-|-----------|-----|-------|-----|------------------|--------------------|-----------|-----------|
-| A1 | 1 | RaspberryPi_Pico |  |  |  | Module:RaspberryPi_Pico_Common_Unspecified | https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf |
-| D1–D158 | 158 | 1N4148 |  |  |  | Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal | https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf |
-| SW1–SW158 | 158 | SW_Push_45deg |  |  |  | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB |  |
-| SW159 | 1 | SW_Push |  |  |  | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB |  |
-| U1 | 1 | PCF8574AP |  |  |  | Package_DIP:DIP-16_W7.62mm | https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf |
+| Reference | Qty | Value | Footprint | Datasheet |
+|-----------|-----|-------|-----------|-----------|
+| A1 | 1 | RaspberryPi_Pico | Module:RaspberryPi_Pico_Common_Unspecified | https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf |
+| D1–D158 | 158 | 1N4148 | Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal | https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf |
+| SW1–SW158 | 158 | SW_Push_45deg | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB | |
+| SW159 | 1 | SW_Push | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB | |
+| U1 | 1 | PCF8574AP | Package_DIP:DIP-16_W7.62mm | https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf |
