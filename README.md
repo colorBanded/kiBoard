@@ -11,7 +11,7 @@ Full 104-key Keyboard designed as a submission for the **2026 Hackclub Stardance
 
 ## Enclosure
 <img width="2085" height="866" alt="Screenshot 2026-06-19 at 11 47 09 PM" src="https://github.com/user-attachments/assets/724b77c5-ceb0-4e2b-a7fb-980e4420d357" />
--- I made the enclosure screwless so that you could nudge the top on for easier access to the internal board. (feel free to mess with it)
+-# I made the enclosure screwless so that you could nudge the top on for easier access to the internal board. (feel free to mess with it)
 
 
 ## BOM
